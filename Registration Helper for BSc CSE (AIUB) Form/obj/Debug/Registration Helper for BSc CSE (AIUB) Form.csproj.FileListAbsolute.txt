@@ -1,0 +1,16 @@
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\bin\Debug\Registration Helper for BSc CSE (AIUB) Form.exe.config
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\bin\Debug\Registration Helper for BSc CSE (AIUB) Form.exe
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\bin\Debug\Registration Helper for BSc CSE (AIUB) Form.pdb
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration Helper for BSc CSE (AIUB) Form.csproj.AssemblyReference.cache
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Check_available_courses_based_on_completed_courses.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Display_all_courses_for_BSc_CSE.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.DeveloperInformation.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Display_courses_by_credits.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Display_courses_with_no_prerequisites.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Selection.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.WelcomeForm.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration_Helper_for_BSc_CSE_AIUB_Form.Properties.Resources.resources
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration Helper for BSc CSE (AIUB) Form.csproj.GenerateResource.cache
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration Helper for BSc CSE (AIUB) Form.csproj.CoreCompileInputs.cache
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration Helper for BSc CSE (AIUB) Form.exe
+C:\Users\AZMINUR RAHMAN\Desktop\Registration Helper for BSc CSE (AIUB) Form\Registration Helper for BSc CSE (AIUB) Form\obj\Debug\Registration Helper for BSc CSE (AIUB) Form.pdb
